@@ -11,8 +11,8 @@
   <li>Redux</li>
   <li> Node.JS</li>
   <li> Express.JS</li>
-  <li>, MongoDB</li>
-  <li>, MongoDB</li>
+  <li>MongoDB</li>
+  <li>MongoDB</li>
 </UL>
 <br>
 <h2>Tiny Description</h2>
